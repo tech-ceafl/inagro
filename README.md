@@ -16,6 +16,8 @@ Documentação e Versionamento:
 
 ​	Por se tratar de um produto, não de um projeto especificamente para um cliente, o InAgro passará por várias iterações de entregas. Essas entregas incrementais do sistema sempre serão acompanhadas de changelogs e diagramas que complementem os que já existiam anteriormente, entre outros possíveis facilitadores.
 
+​	Uma segunda entrega já foi planejada, onde serão adicionados dados históricos da região selecionada para que o aplicativo, via inteligência artificial, consiga prever a chance de sucesso das possíveis condições climáticas somadas à chance de sucesso baseada na estação do ano.
+
 
 
 Arquitetura:
